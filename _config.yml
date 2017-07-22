@@ -54,6 +54,9 @@ permalink: /blog/:title/
 paginate_path: /page/page_id=:num/
 paginate: 2
 
+# MathJax Settings
+mathjax: true
+
 # Markdown settings
 kramdown:
   auto_ids: false
