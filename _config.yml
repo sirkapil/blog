@@ -17,7 +17,7 @@ title: Kapil Chaudhary
 author: sirkapil
 description: Minimal, responsive Jekyll theme for hackers.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sirkapil.gq" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ski.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
 exclude:
